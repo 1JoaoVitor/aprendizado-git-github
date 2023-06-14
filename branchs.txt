@@ -1,0 +1,2 @@
+"Camadas" paralelas que podem ser desenvolvidas ao mesmo tempo que a main, 
+usado para trabalho em equipe com independência de regiões diferentes do código.
